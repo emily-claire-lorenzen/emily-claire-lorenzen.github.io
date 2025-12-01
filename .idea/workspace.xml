@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5b2a378-c040-4c63-a9da-237827841e58" name="Changes" comment="Updated header and about me">
+    <list default="true" id="d5b2a378-c040-4c63-a9da-237827841e58" name="Changes" comment="Updated images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/about.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/about.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,13 +99,22 @@
       <option name="project" value="LOCAL" />
       <updated>1763692593180</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated images">
+      <option name="closed" value="true" />
+      <created>1763965261403</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763965261403</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Moved files" />
     <MESSAGE value="Updated header and about me" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated header and about me" />
+    <MESSAGE value="Updated images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated images" />
   </component>
 </project>
