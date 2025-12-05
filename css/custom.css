@@ -454,6 +454,10 @@ header .navbar.sticky-header{
 	left: 0;
 }
 
+ul.no-bullet{
+    list-style: none;
+}
+
 /**************************************/
 /*****     Services Section css    ****/
 /**************************************/
