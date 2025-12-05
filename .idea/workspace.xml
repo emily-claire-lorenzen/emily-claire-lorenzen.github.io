@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5b2a378-c040-4c63-a9da-237827841e58" name="Changes" comment="Updated images">
+    <list default="true" id="d5b2a378-c040-4c63-a9da-237827841e58" name="Changes" comment="Updated portfolio, resume, and footer sections">
+      <change afterPath="$PROJECT_DIR$/caseStudy1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -12,6 +13,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -107,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763965261403</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated portfolio, resume, and footer sections">
+      <option name="closed" value="true" />
+      <created>1764603706644</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1764603706644</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -115,6 +132,7 @@
     <MESSAGE value="Moved files" />
     <MESSAGE value="Updated header and about me" />
     <MESSAGE value="Updated images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated images" />
+    <MESSAGE value="Updated portfolio, resume, and footer sections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated portfolio, resume, and footer sections" />
   </component>
 </project>
