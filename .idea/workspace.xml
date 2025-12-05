@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5b2a378-c040-4c63-a9da-237827841e58" name="Changes" comment="Updated portfolio, resume, and footer sections">
-      <change afterPath="$PROJECT_DIR$/caseStudy1.html" afterDir="false" />
+    <list default="true" id="d5b2a378-c040-4c63-a9da-237827841e58" name="Changes" comment="Added first case study page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy1.html" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764603706644</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added first case study page">
+      <option name="closed" value="true" />
+      <created>1764903530787</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1764903530787</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -133,6 +141,7 @@
     <MESSAGE value="Updated header and about me" />
     <MESSAGE value="Updated images" />
     <MESSAGE value="Updated portfolio, resume, and footer sections" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated portfolio, resume, and footer sections" />
+    <MESSAGE value="Added first case study page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added first case study page" />
   </component>
 </project>
