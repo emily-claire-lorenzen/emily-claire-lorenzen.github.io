@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5b2a378-c040-4c63-a9da-237827841e58" name="Changes" comment="Updated CSS and added image to caseStudy1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="d5b2a378-c040-4c63-a9da-237827841e58" name="Changes" comment="Updated images">
+      <change afterPath="$PROJECT_DIR$/caseStudy2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,8 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/lorenzene/OneDrive - Milwaukee School of Engineering/Documents/Portfolios"
   }
 }]]></component>
   <component name="RunManager">
@@ -140,17 +139,57 @@
       <option name="project" value="LOCAL" />
       <updated>1764904634791</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Updated images">
+      <option name="closed" value="true" />
+      <created>1764905795591</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1764905795591</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updated images">
+      <option name="closed" value="true" />
+      <created>1764905970554</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1764905970554</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updated images">
+      <option name="closed" value="true" />
+      <created>1764905980859</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1764905980859</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Updated images">
+      <option name="closed" value="true" />
+      <created>1764905985943</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1764905985943</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Updated images">
+      <option name="closed" value="true" />
+      <created>1764905992356</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1764905992356</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Moved files" />
     <MESSAGE value="Updated header and about me" />
-    <MESSAGE value="Updated images" />
     <MESSAGE value="Updated portfolio, resume, and footer sections" />
     <MESSAGE value="Added first case study page" />
     <MESSAGE value="Updated CSS and added image to caseStudy1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated CSS and added image to caseStudy1" />
+    <MESSAGE value="Updated images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated images" />
   </component>
 </project>
