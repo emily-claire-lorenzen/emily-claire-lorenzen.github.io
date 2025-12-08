@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5b2a378-c040-4c63-a9da-237827841e58" name="Changes" comment="Added portfolio content for caseStudy2.html">
+    <list default="true" id="d5b2a378-c040-4c63-a9da-237827841e58" name="Changes" comment="Fixed file references">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -217,7 +218,23 @@
       <option name="project" value="LOCAL" />
       <updated>1765202511056</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Updated page references">
+      <option name="closed" value="true" />
+      <created>1765204289652</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1765204289652</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Fixed file references">
+      <option name="closed" value="true" />
+      <created>1765204493419</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1765204493419</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -232,6 +249,8 @@
     <MESSAGE value="Updated formatting on main page" />
     <MESSAGE value="Updated caseStudy2.html content" />
     <MESSAGE value="Added portfolio content for caseStudy2.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added portfolio content for caseStudy2.html" />
+    <MESSAGE value="Updated page references" />
+    <MESSAGE value="Fixed file references" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed file references" />
   </component>
 </project>
