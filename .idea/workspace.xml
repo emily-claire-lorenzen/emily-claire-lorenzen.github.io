@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5b2a378-c040-4c63-a9da-237827841e58" name="Changes" comment="Added caseStudy2.html, added images">
+    <list default="true" id="d5b2a378-c040-4c63-a9da-237827841e58" name="Changes" comment="Updated formatting on main page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy2.html" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764906598549</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Updated formatting on main page">
+      <option name="closed" value="true" />
+      <created>1764907344448</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1764907344448</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -206,6 +213,7 @@
     <MESSAGE value="Updated CSS and added image to caseStudy1" />
     <MESSAGE value="Updated images" />
     <MESSAGE value="Added caseStudy2.html, added images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added caseStudy2.html, added images" />
+    <MESSAGE value="Updated formatting on main page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated formatting on main page" />
   </component>
 </project>
