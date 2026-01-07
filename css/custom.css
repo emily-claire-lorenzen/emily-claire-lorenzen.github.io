@@ -365,7 +365,7 @@ header .navbar.sticky-header{
 	color: #ff5d56;
 	font-family: 'Berkshire Swash', cursive;
 	font-weight: normal;
-	font-size: 36px;
+	font-size: 48px;
 }
 
 .section-title p{
@@ -387,7 +387,7 @@ header .navbar.sticky-header{
 	left: 20px;
 	right: -10px;
 	bottom: -10px;
-	border: 1px solid #222;
+
 	z-index: -1;
 }
 
